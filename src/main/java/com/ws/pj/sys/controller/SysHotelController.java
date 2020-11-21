@@ -10,6 +10,7 @@ import com.ws.pj.sys.service.SysHotelService;
 //网站地址：http://localhost/dist/hotels
 //zhu
 //这是一个注释
+//代码冲突测试
 //代码冲突Test2
 @Controller
 @RequestMapping("/dist/")
