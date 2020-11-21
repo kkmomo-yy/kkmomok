@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.ws.pj.sys.pojo.JsonResult;
 import com.ws.pj.sys.service.SysHotelService;
-//地址：http://localhost/dist/hotels
+//网站地址：http://localhost/dist/hotels
 @Controller
 @RequestMapping("/dist/")
 public class SysHotelController {
