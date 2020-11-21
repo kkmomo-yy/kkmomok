@@ -1,3 +1,4 @@
+
 package com.ws.pj.sys.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,7 +11,7 @@ import com.ws.pj.sys.service.SysHotelService;
 //网站地址：http://localhost/dist/hotels
 //zhu
 //这是一个注释
-//代码冲突TEST
+//代码冲突测试
 @Controller
 @RequestMapping("/dist/")
 public class SysHotelController {
