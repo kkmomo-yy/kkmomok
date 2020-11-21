@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.ws.pj.sys.pojo.JsonResult;
 import com.ws.pj.sys.service.SysHotelService;
-
+//网站tomcat网页/dist/hotels
 @Controller
 @RequestMapping("/dist/")
 public class SysHotelController {
