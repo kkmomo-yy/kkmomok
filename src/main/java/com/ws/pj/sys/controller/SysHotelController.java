@@ -12,6 +12,7 @@ import com.ws.pj.sys.service.SysHotelService;
 //这是一个注释
 //代码冲突测试
 //代码冲突Test2
+//代码冲突1874
 @Controller
 @RequestMapping("/dist/")
 public class SysHotelController {
